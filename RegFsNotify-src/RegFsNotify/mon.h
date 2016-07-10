@@ -1,5 +1,5 @@
 ﻿#pragma once
-
+//완정
 #include <windows.h>
 #include <tchar.h>
 
